@@ -1,14 +1,13 @@
 <h2> Hi! The name is Morten Ramfjord <img src="#" width="50"></h2>
 <img align='right' src="morten-farger-2.jpeg" width="230">
 <p><em>I am a front-end developer-student at <a href="http://www.noroff.com">Noroff University</a></em></p>
-<br>
-<a href="www.noroff.com"><img src="noroff-logo.png" width="150"></a>
+<img src="noroff-logo.png" width="150"></a>
 
 <br>
 
 ### Connect with me at
 
-<p align="left">Codepen
+<p align="left">Codepen:
 <a href="https://codepen.io/ramsnes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ramsnes" height="30" width="40" /></a>
 </p>
 

@@ -1,8 +1,6 @@
 <h2> Hi! The name is Morten Ramfjord <img src="#" width="50"></h2>
 <img align='right' src="morten-farger-2.jpeg" width="230">
-<p><em>I am a front-end developer-student at <a href="http://www.noroff.com">Noroff University</a></em></p>
-
-<img src="noroff-logo.png" width="150">
+<p><em>I am a front-end developer-student at <a href="http://www.noroff.com">Noroff University</a></em></p><img src="noroff-logo.png" width="150">
 
 ### Connect with me at
 
@@ -10,9 +8,9 @@
 <a href="https://codepen.io/ramsnes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ramsnes" height="30" width="40" /></a>
 </p>
 
-**Morten.Ramfjord@gmail.com**
+Email: **Morten.Ramfjord@gmail.com**
 
-### Languages and Tools I am currently working on:
+### Languages and Tools I am currently working with:
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -32,3 +30,9 @@
 <h3>Follow me:</h3>
 
 [![GitHub Ramsnes](https://img.shields.io/github/followers/ramsnes?label=follow&style=social)](https://github.com/Ramsnes)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Ramsnes/projectExam1Private">
+  <img align="center" src="projExamLarge.jpeg" alt="exam Image" />
+</a>

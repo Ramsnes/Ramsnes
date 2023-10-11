@@ -1,5 +1,5 @@
-<h2> Hi, I am Morten Ramfjord! <img src="../../noroff/projects/portfolio-1/images/morten-farger-2.jpeg" width="50"></h2>
-<img align='right' src="../../noroff/projects/portfolio-1/images/morten-farger-2.jpeg" width="230">
+<h2> Hi, I am Morten Ramfjord! <img src="morten-farger-2.jpeg" width="50"></h2>
+<img align='right' src="morten-farger-2.jpeg" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 

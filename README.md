@@ -34,8 +34,6 @@ Email: **Morten.Ramfjord@gmail.com**
 
 <br>
 
-<h3>Follow me:</h3>
-
 [![GitHub Ramsnes](https://img.shields.io/github/followers/ramsnes?label=follow&style=social)](https://github.com/Ramsnes)
 
 ## 🗂️ Highlighted Project
@@ -43,3 +41,7 @@ Email: **Morten.Ramfjord@gmail.com**
 <a href="https://github.com/Ramsnes/projectExam1Private">
   <img align="center" src="projExamLarge.jpeg" width="200" alt="exam Image" />
 </a>
+
+<br>
+
+<h3>Follow me:</h3>

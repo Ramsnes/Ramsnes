@@ -3,8 +3,6 @@
 <p><em>I am a student in front-end developing at <a href="http://www.noroff.com">Noroff University</a></em></p>
 <img src="noroff-logo.png" width="150"></a>
 
-<br>
-
 ### Connect with me at:
 
 <p align="left">Codepen:

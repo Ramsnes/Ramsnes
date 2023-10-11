@@ -29,6 +29,8 @@ Email: **Morten.Ramfjord@gmail.com**
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSC" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
 
+<br>
+
 ## 🗂️ Highlighted Project
 
 <a href="https://github.com/Ramsnes/projectExam1Private">

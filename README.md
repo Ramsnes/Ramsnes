@@ -1,6 +1,6 @@
 <h2> Hi, name is Morten Ramfjord! <img src="#" width="50"></h2>
 <img align='right' src="morten-farger-2.jpeg" width="230">
-<p><em>I am a front-end developer-student at <a href="http://www.noroff.com">Noroff University</a><img src="noroff-logo.png" width="60"></em></p>
+<p><em>I am a front-end developer-student at <br> <a href="http://www.noroff.com">Noroff University</a><img src="noroff-logo.png" width="60"></em></p>
 
 📫 E-mail me **Morten.Ramfjord@gmail.com**
 

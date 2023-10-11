@@ -2,6 +2,8 @@
 <img align='right' src="morten-farger-2.jpeg" width="230">
 <p><em>I am a front-end developer-student at <a href="http://www.noroff.com">Noroff University</a></em></p><img src="noroff-logo.png" width="150">
 
+<br>
+
 ### Connect with me at
 
 <p align="left">Codepen
@@ -9,6 +11,8 @@
 </p>
 
 Email: **Morten.Ramfjord@gmail.com**
+
+<br>
 
 ### Languages and Tools I am currently working with:
 
@@ -26,6 +30,8 @@ Email: **Morten.Ramfjord@gmail.com**
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
 </div>
+
+<br>
 
 <h3>Follow me:</h3>
 

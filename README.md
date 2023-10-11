@@ -1,7 +1,15 @@
 <h2> Hi! The name is Morten Ramfjord <img src="#" width="50"></h2>
 <img align='right' src="morten-farger-2.jpeg" width="230">
-<p><em>I am a student in front-end developing at <a href="http://www.noroff.com">Noroff University</a></em></p>
+
+### About me:
+
+<p><em>I am currently studying front-end development at <a href="http://www.noroff.com">Noroff University</a></em></p>
 <img src="noroff-logo.png" width="150"></a>
+<p> You can also [!visit my portfolio]
+
+<p><em>You can also visit my <a href="https://shimmering-lollipop-8d3dfa.netlify.app/">Portfolio</p></em>
+
+<br>
 
 ### Connect with me at:
 

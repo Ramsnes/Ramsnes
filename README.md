@@ -31,8 +31,8 @@ Email: **Morten.Ramfjord@gmail.com**
 
 [![GitHub Ramsnes](https://img.shields.io/github/followers/ramsnes?label=follow&style=social)](https://github.com/Ramsnes)
 
-## 🗂️ Highlight Projects
+## 🗂️ Highlighted Project
 
 <a href="https://github.com/Ramsnes/projectExam1Private">
-  <img align="center" src="projExamLarge.jpeg" alt="exam Image" />
+  <img align="center" src="projExamLarge.jpeg" width="200" alt="exam Image" />
 </a>

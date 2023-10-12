@@ -38,7 +38,7 @@ Email: **Morten.Ramfjord@gmail.com**
 </a>
 
 <a href="https://github.com/Ramsnes/portfolio-1">
-  <img align="center"  src="portfolioLarge.jpeg" width"200" alt="portfolio Image" />
+  <img align="center"  src="portfolioLarge.jpeg" width="200" alt="portfolio Image" />
 
 <br>
 

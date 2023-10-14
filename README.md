@@ -36,9 +36,6 @@ Email: **Morten.Ramfjord@gmail.com**
 <a href="https://github.com/Ramsnes/projectExam1Private">
   <img align="center" src="projExamLarge.jpeg" width="200" height="100" alt="exam Image"  />
 </a>
-<a href="https://github.com/Ramsnes/portfolio-1">
-  <img align="center"  src="portfolioLarge.jpeg" width="200" height="100" alt="portfolio Image" />
-
 <br>
 
 <h3>Follow me:</h3>

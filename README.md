@@ -40,7 +40,8 @@ Email: **Morten.Ramfjord@gmail.com**
   <img align="center"  src="portfolioLarge.jpeg" width="200" height="100" alt="portfolio Image" />
 <style> 
 .exam1 {
-  margin-right="10px" margin-bottom="10px" 
+  margin-right: 10px; 
+  margin-bottom: 10px; 
   }
 </style>
 <br>

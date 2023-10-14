@@ -1,5 +1,5 @@
-<h2> Hello, there! <img src="#" width="50"></h2>
-<img align='right' src="morten-farger-2.jpeg" width="230">
+<h2> Hello, there! <img src="#"></h2>
+<img align='right' src="morten-farger-2.jpeg" width="120">
 
 ### About me:
 

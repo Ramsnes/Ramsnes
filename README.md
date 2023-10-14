@@ -34,11 +34,15 @@ Email: **Morten.Ramfjord@gmail.com**
 ## 🗂️ Highlighted Projects
 
 <a href="https://github.com/Ramsnes/projectExam1Private">
-  <img align="center" src="projExamLarge.jpeg" width="200" height="100" margin-right="10px" margin-bottom="10px" alt="exam Image"  />
+  <img class="exam1" align="center" src="projExamLarge.jpeg" width="200" height="100" alt="exam Image"  />
 </a>
 <a href="https://github.com/Ramsnes/portfolio-1">
   <img align="center"  src="portfolioLarge.jpeg" width="200" height="100" alt="portfolio Image" />
-
+<style> 
+.exam1 {
+  margin-right="10px" margin-bottom="10px" 
+  }
+</style>
 <br>
 
 <h3>Follow me:</h3>

@@ -5,7 +5,7 @@
 
 <p><em>My name is Morten Ramfjord, and I am currently studying front-end development at <a href="http://www.noroff.com">Noroff University</a></em></p>
 <img src="noroff-logo.png" width="150"></a>
-<p><em>You can also visit my <a href="https://shimmering-lollipop-8d3dfa.netlify.app/">Portfolio</p></em>
+<p><em>You can also visit my <a href="https://ramfjord-portfolio.netlify.app/">Portfolio</p></em>
 
 <br>
 

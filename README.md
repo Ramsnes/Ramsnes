@@ -33,8 +33,8 @@ Email: **Morten.Ramfjord@gmail.com**
 
 ## 🗂️ Highlighted Project
 
-<a href="https://github.com/Ramsnes/projectExam1Private">
-  <img align="center" src="projExamLarge.jpeg" width="200" height="100" alt="exam Image"  />
+<a href="https://github.com/Ramsnes/project-exam-2">
+  <img align="center" src="pe2.png" width="200" height="100" alt="exam Image"  />
 </a>
 <br>
 
